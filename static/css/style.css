@@ -124,7 +124,7 @@ h3 {
 /* Header */
 .header {
     height: 30rem;
-    background-image: url("../svg/wave_header1.svg");
+    background-image: url(../svg/wave_header1.svg);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 2rem;
@@ -723,7 +723,7 @@ h3 {
 /* Footer */
 .footer {
     height: 30rem;
-    background-image: url("../svg/wave_footer.svg");
+    background-image: url(../svg/wave_footer.svg);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 10rem 3rem 0 3rem;
